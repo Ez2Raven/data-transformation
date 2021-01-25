@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9238E1D4-2AEE-431A-ABD8-900518B7D5F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E8615261-6045-4445-842C-0F6EE679F8AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{A6120A7A-B72E-446A-ABC3-C41BE78680E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{0BFE39E6-C7DA-4B60-B30C-A76A8363EF4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceTests", "ServiceTests", "{14B0761D-827E-4F79-9E84-15BC184F334E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlockTests", "BuildingBlockTests", "{E5732E8E-C12C-41BD-AE19-7A70BAFFEC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A6120A7A-B72E-446A-ABC3-C41BE78680E7} = {9238E1D4-2AEE-431A-ABD8-900518B7D5F3}
+		{0BFE39E6-C7DA-4B60-B30C-A76A8363EF4B} = {9238E1D4-2AEE-431A-ABD8-900518B7D5F3}
+		{14B0761D-827E-4F79-9E84-15BC184F334E} = {E8615261-6045-4445-842C-0F6EE679F8AE}
+		{E5732E8E-C12C-41BD-AE19-7A70BAFFEC22} = {E8615261-6045-4445-842C-0F6EE679F8AE}
+	EndGlobalSection
+EndGlobal
